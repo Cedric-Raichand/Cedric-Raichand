@@ -21,9 +21,8 @@
 
 ### 🔥 Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cedric-Raichand&layout=compact&theme=dark&cache_seconds=10)
-### 🚀 Top Contributed Repos:
-[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=Cedric-Raichand&repo=Assignment-&theme=dark)](https://github.com/Cedric-Raichand/Assignment-)
-[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=Cedric-Raichand&repo=Login-page&theme=dark)](https://github.com/Cedric-Raichand/Login-page)
+### 💬 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 ### 🕓 GitHub Streak:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cedric-Raichand&theme=dark)
 ### 🏆 GitHub Trophies:
