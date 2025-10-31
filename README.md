@@ -42,9 +42,9 @@
 ---
 
 ### 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=Cedric-Raichand&theme=algolia&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Cedric-Raichand&theme=dracula&margin-w=15)
 
 ---
 
 ### 📈 Contribution Graph:
-[![Cedric's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cedric-Raichand&theme=github-compact)](https://github.com/Cedric-Raichand)
+[![Cedric's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cedric-Raichand&theme=react-dark)](https://github.com/Cedric-Raichand)
