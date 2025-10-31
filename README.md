@@ -32,7 +32,7 @@
 ---
 
 ### 💬 Random Dev Quote:
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blue-green)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 ---
 
