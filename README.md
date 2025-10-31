@@ -20,7 +20,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cedric-Raichand&show_icons=true&theme=dark&count_private=true)
 
 ### 🔥 Most Used Languages 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Cedric-Raichand&layout=compact&theme=dark&cache_seconds=3600
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cedric-Raichand&layout=compact&theme=blue-green)
 ### 💬 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 ### 🕓 GitHub Streak:
