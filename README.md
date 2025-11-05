@@ -38,7 +38,7 @@
 ---
 
 ### 🕓 GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cedric-Raichand&theme=blue-green)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Cedric-Raichand&theme=blue-green)
 
 ---
 
