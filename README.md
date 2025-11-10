@@ -27,8 +27,8 @@
 ---
 
 ### 🔥 Most Used Languages:
-https://github-readme-stats.vercel.app/api/top-langs/?username=Cedric-Raichand&layout=compact&theme=blue-green&langs_count=15&cache_seconds=1
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cedric-Raichand&layout=compact&theme=blue-green&langs_count=15&cache_seconds=1)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
