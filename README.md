@@ -33,6 +33,12 @@
 
 ---
 
+### 🏆 GitHub Trophies:
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Cedric-Raichand&theme=blue-green&row=1&column=7&margin-w=5&margin-h=5)
+
+---
+
 ### 📌 Most Used Languages:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cedric-Raichand&layout=compact&theme=blue-green)
