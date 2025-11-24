@@ -29,19 +29,13 @@
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cedric-Raichand&show_icons=true&theme=blue-green&count_private=true&cache_seconds=60)
-
----
-
-### 🏆 GitHub Trophies:
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Cedric-Raichand&theme=blue-green&row=1&column=7&margin-w=5&margin-h=5)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cedric-Raichand&show_icons=true&theme=dark&count_private=true&cache_seconds=60)
 
 ---
 
 ### 📌 Most Used Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cedric-Raichand&layout=compact&theme=blue-green)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cedric-Raichand&layout=compact&theme=dark)
 
 ---
 
@@ -53,4 +47,16 @@
 
 ### 🔥 Contributions & Streak:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cedric-Raichand&theme=blue-green)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cedric-Raichand&theme=dark)
+
+---
+
+### 🏆 GitHub Trophies:
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Cedric-Raichand&theme=dark&row=1&column=7&margin-w=5&margin-h=5)
+
+---
+
+### 📈 Contribution Graph:
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Cedric-Raichand&theme=react-dark&area=true&hide_border=false)
