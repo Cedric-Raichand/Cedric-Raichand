@@ -34,7 +34,7 @@
 ---
 
 ### 💬 Random Dev Quote:
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blue-green)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
@@ -44,7 +44,7 @@
 ---
 
 ### 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Cedric-Raichand&theme=juicyfresh&margin-w=10&margin-h=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Cedric-Raichand&theme=dracula&margin-w=10&margin-h=10)
 
 ---
 
