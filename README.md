@@ -41,7 +41,9 @@
 ---
 
 ### 🔥 Contributions & Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Cedric-Raichand&theme=blue-green&hide_border=false)
+### 🔥 Contributions & Streak:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Cedric-Raichand&theme=blue-green&hide_border=false&date_format=M+j%2C+Y)
+
 
 ---
 
