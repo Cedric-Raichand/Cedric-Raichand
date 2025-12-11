@@ -1,5 +1,5 @@
 # Cedric-Raichand
-### ⚔️🗡✨️ BEST IN THE WORLD ✨️🗡⚔️
+# ⚔️🗡✨️ BEST IN THE WORLD ✨️🗡⚔️
 
 ### 📫 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cedrick-dzodzodzi)
