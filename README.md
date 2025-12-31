@@ -1,7 +1,7 @@
 # Cedric-Raichand
 # ⚔️🗡✨️ BEST IN THE WORLD ✨️🗡⚔️
 ### 🚀 About Me
-Computer Science student passionate about **software development and cybersecurity**.  
+A Computer Science student passionate about **software development and cybersecurity**.  
 Focused on mastering programming fundamentals, building real projects, and becoming **exceptional** at what I do
 
 ### 📫 Contact Me:
