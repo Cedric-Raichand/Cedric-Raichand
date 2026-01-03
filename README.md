@@ -53,5 +53,5 @@ Focused on mastering programming fundamentals, database and networking, building
 
 ### 📈 Contribution Graph:
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cedric-Raichand&theme=react-dark)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cedric-Raichand&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
 
