@@ -27,7 +27,7 @@ Focused on mastering programming fundamentals, database and networking, building
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Cedric-Raichand&theme=tokyonight&hide_border=true)
+![GitHub Streak Stats](https://github-readme-stats.vercel.app/api?username=Cedric-Raichand&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true)
 ---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cedric-Raichand&layout=compact&theme=radical&langs_count=8)
