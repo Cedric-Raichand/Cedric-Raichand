@@ -1,8 +1,8 @@
-# Cedric Raichand
+# Cedric-Raichand
 # ⚔️🗡✨️ BEST IN THE WORLD ✨️🗡⚔️
 ### 🚀 About Me
 A Computer Science student passionate about **software development and cybersecurity**.  
-Focused on mastering programming fundamentals, database and networking, building real projects, and becoming **exceptional** at what I do
+Focused on mastering programming fundamentals, building real projects, and becoming **exceptional** at what I do
 
 ### 📫 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cedrick-dzodzodzi)
@@ -26,7 +26,9 @@ Focused on mastering programming fundamentals, database and networking, building
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cedric-Raichand&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true)
+
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cedric-Raichand&show_icons=true&theme=blue-green&count_private=true&cache_seconds=60)
 
 ---
 
@@ -53,5 +55,5 @@ Focused on mastering programming fundamentals, database and networking, building
 
 ### 📈 Contribution Graph:
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cedric-Raichand&theme=react-dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cedric-Raichand&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+
 
