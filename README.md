@@ -26,9 +26,7 @@ Focused on mastering programming fundamentals, database and networking, building
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
-
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cedric-Raichand&show_icons=true&theme=blue-green&count_private=true&cache_seconds=60)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cedric-Raichand&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true)
 
 ---
 
