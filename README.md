@@ -44,9 +44,7 @@ Focused on mastering programming fundamentals, database and networking, building
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Cedric-Raichand&theme=blue-green&hide_border=false)
 
 ---
-
-### 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Cedric-Raichand&theme=dracula&margin-w=10&margin-h=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Cedric-Raichand&theme=onedark&row=1&margin-w=15)
 
 ---
 
