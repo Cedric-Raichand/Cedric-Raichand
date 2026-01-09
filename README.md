@@ -1,4 +1,4 @@
-# Cedric Raichand
+# Cedrić Raichand
 # ⚔️🗡✨️ BEST IN THE WORLD ✨️🗡⚔️
 ### 🚀 About Me
 A Computer Science student passionate about **software development and cybersecurity**.  
