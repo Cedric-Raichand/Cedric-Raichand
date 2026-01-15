@@ -4,7 +4,7 @@
 A Computer Science student passionate about **software development and cybersecurity**.  
 Focused on mastering programming fundamentals, networking along side database and building real projects, and becoming **exceptional** at what I do 
 
-----
+---
 
 ### 📫 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cedrick-dzodzodzi)
