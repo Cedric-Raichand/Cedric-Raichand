@@ -4,7 +4,7 @@
 A Computer Science student passionate about **software development and cybersecurity**.  
 Focused on mastering programming fundamentals, networking along side database and building real projects, and becoming **exceptional** at what I do 
 
----
+----
 
 ### 📫 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cedrick-dzodzodzi)
@@ -30,7 +30,7 @@ Focused on mastering programming fundamentals, networking along side database an
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cedric-Raichand&show_icons=true&theme=blue-green&cache_seconds=60)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cedric-Raichand&show_icons=true&theme=blue-green&count_private=true&cache_seconds=60)
 
 ---
 
@@ -58,6 +58,6 @@ Focused on mastering programming fundamentals, networking along side database an
 ### 📈 Contribution Graph:
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cedric-Raichand&theme=react-dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cedric-Raichand&show_icons=true)
+
 
 
