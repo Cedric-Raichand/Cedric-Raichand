@@ -58,6 +58,6 @@ Focused on mastering programming fundamentals, networking along side database an
 ### 📈 Contribution Graph:
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cedric-Raichand&theme=react-dark)
 
-
+[![committers.top badge](https://user-badge.committers.top/ghana/Cedric-Raichand.svg)](https://user-badge.committers.top/ghana/Cedric-Raichand)
 
 
