@@ -60,4 +60,6 @@ Focused on mastering programming fundamentals, networking along side database an
 
 [![committers.top badge](https://user-badge.committers.top/ghana/Cedric-Raichand.svg)](https://user-badge.committers.top/ghana/Cedric-Raichand)
 
+![Visitors](https://komarev.com/ghpvs/?username=Cedric-Raichand&color=blue)
+
 
