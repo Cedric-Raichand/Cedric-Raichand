@@ -1,8 +1,4 @@
 
-### 🚀 About Me
-A Computer Science student passionate about **software development and cybersecurity**.  
-Focused on mastering programming fundamentals, networking along side database and building real projects and secured systems, and becoming **exceptional** at what i do 
-
 ---
 
 ### 📫 Contact Me:
