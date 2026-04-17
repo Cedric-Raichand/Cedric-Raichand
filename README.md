@@ -2,7 +2,7 @@
 # ⚔️🗡✨️ BEST IN THE WORLD ✨️🗡⚔️
 ### 🚀 About Me
 A Computer Science student passionate about **software development and cybersecurity**. 
-Focused on mastering programming fundamentals, networking along side database, backend and building real applications and secured systems, and becoming **exceptional** at what i do 
+Focused on mastering programming fundamentals, networking along side database, backend and building real applications and secured and reliable systems, and becoming **exceptional** at what i do 
 
 
 ---
