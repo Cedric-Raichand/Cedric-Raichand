@@ -1,4 +1,10 @@
+# Cedric Raichand
+# ⚔️🗡✨️ BEST IN THE WORLD ✨️🗡⚔️
+### 🚀 About Me
+A Computer Science student passionate about **software development and cybersecurity**. Focused on mastering programming fundamentals, networking, databases, and backend development while building real-world applications, secure and reliable systems, and continuously striving to become **exceptional** at what I do.
 
+
+---
 
 ### 📫 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cedrick-dzodzodzi)
@@ -23,8 +29,13 @@
 
 ---
 
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cedric-Raichand&show_icons=true&theme=blue-green&count_private=true&cache_seconds=60)
 
 ---
+
+### 📌 Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cedric-Raichand&layout=compact&theme=blue-green)
 
 ---
 
@@ -38,4 +49,18 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Cedric-Raichand&theme=blue-green&hide_border=false)
 
 ---
+
+### 🏆 GitHub Trophies:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Cedric-Raichand&theme=dracula&margin-w=10&margin-h=10)
+
+---
+
+### 📈 Contribution Graph:
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cedric-Raichand&theme=react-dark)
+
+[![committers.top badge](https://user-badge.committers.top/ghana_private/Cedric-Raichand.svg)](https://user-badge.committers.top/ghana_private/Cedric-Raichand)
+
+
+![Visitors](https://komarev.com/ghpvc/?username=Cedric-Raichand&color=blue)
+
 
