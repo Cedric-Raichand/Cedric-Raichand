@@ -1,4 +1,4 @@
-# Cedric Raichand
+
 # ⚔️🗡✨️ BEST IN THE WORLD ✨️🗡⚔️
 ### 🚀 About Me
 A Computer Science student passionate about **software development and cybersecurity**. Focused on mastering programming fundamentals, networking, databases, and backend development while building real-world applications, secure and reliable systems, and continuously striving to become **exceptional** at what I do.
