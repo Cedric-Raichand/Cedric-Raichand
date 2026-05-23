@@ -34,8 +34,6 @@ A Computer Science student passionate about **software development and cybersecu
 
 ---
 
-### 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Cedric-Raichand&theme=dracula&margin-w=10&margin-h=10)
 
 ---
 
