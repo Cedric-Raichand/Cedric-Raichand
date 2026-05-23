@@ -30,11 +30,6 @@ A Computer Science student passionate about **software development and cybersecu
 
 ---
 
-### 💬 Random Dev Quote:
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 
 ---
