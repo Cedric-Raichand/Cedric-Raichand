@@ -23,19 +23,6 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
----
-
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cedric-Raichand&show_icons=true&theme=blue-green&count_private=true&cache_seconds=60)
-
----
-
-### 📌 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cedric-Raichand&layout=compact&theme=blue-green)
-
----
 
 ### 💬 Random Dev Quote:
 
