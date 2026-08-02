@@ -1,8 +1,4 @@
-# Cedric Raichand
-# ⚔️🗡✨️ BEST IN THE WORLD ✨️🗡⚔️
-### 🚀 About Me
-A Computer Science student passionate about **software development and cybersecurity**. Focused on mastering programming fundamentals, networking, databases, and backend development while building real-world applications, secure and reliable systems, and continuously striving to become **exceptional** at what I do.
-
+#
 
 ---
 
@@ -63,7 +59,4 @@ A Computer Science student passionate about **software development and cybersecu
 [![committers.top badge](https://user-badge.committers.top/ghana_private/Cedric-Raichand.svg)](https://user-badge.committers.top/ghana_private/Cedric-Raichand)
 
 
-![Visitors](https://komarev.com/ghpvc/?username=Cedric-Raichand&color=blue)
-
-
-
+![Visitor#
