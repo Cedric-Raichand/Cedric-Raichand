@@ -1,11 +1,5 @@
 #
 
----
-
-### 📫 Contact Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cedrick-dzodzodzi)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cedrick.dzodzodzi@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+233537032441)
 
 ---
 
@@ -32,5 +26,6 @@
 ---
 
 ### 📈 Contribution Graph:
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cedric-Raichand&theme=react-dark)
+![Contribution Graph](https://github-readme-activity-graph.vercel.a-
 
+##
