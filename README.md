@@ -41,11 +41,6 @@ A Computer Science student passionate about **full-stack software development, m
 
 ---
 
-### 💬 Random Dev Quote:
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 
 
