@@ -52,7 +52,7 @@ A Computer Science student passionate about **full-stack software development, m
 ---
 
 ### 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Cedric-Raichand&theme=dracula&margin-w=10&margin-h=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Cedric-Raichand&theme=matrix&margin-w=10&margin-h=10)
 
 ---
 
