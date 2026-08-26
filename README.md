@@ -32,7 +32,7 @@ A Computer Science student passionate about **full-stack software development, m
 ---
 ### 📊 GitHub Stats
 
-![Cedric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cedric-Raichand&show_icons=true&theme=blue-green&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Cedric-Raichand&show_icons=true&theme=blue-green&count_private=true)
 
 ---
 
