@@ -30,15 +30,14 @@ A Computer Science student passionate about **full-stack software development, m
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
-### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Cedric-Raichand&show_icons=true&theme=blue-green&count_private=true)
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cedric-Raichand&show_icons=true&theme=blue-green&count_private=true&cache_seconds=60)
 
 ---
 
-### 📌 Most Used Languages
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cedric-Raichand&layout=compact&theme=blue-green)
+### 📌 Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cedric-Raichand&layout=compact&theme=blue-green)
 
 ---
 
@@ -65,4 +64,3 @@ A Computer Science student passionate about **full-stack software development, m
 
 
 ![Visitors](https://komarev.com/ghpvc/?username=Cedric-Raichand&color=blue)
-
