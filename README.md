@@ -36,7 +36,7 @@ A Computer Science student passionate about **full-stack software development, m
 ---
 
 ### 📌 Most Used Languages:
-![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Cedric-Raichand&layout=compact&theme=blue-green&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Cedric-Raichand&layout=compact&theme=blue-green&hide_border=true&langs_count=10)
 
 ---
 
