@@ -32,8 +32,7 @@ A Computer Science student passionate about **full-stack software development, m
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cedric-Raichand&show_icons=true&theme=blue-green&count_private=true&cache_seconds=60)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cedric-Raichand&show_icons=true&theme=blue-green&count_private=true)
 ---
 
 ### 📌 Most Used Languages:
