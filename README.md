@@ -1,8 +1,4 @@
 
-### 📌 Most Used Languages:
-![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Cedric-Raichand&layout=compact&theme=blue-green&hide_border=true&langs_count=8)
-
----
 
 ### 💬 Random Dev Quote:
 
