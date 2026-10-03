@@ -53,8 +53,7 @@ A Computer Science student passionate about **full-stack software development, m
 
 ### 🏆 GitHub Trophies:
 
-![Contributions](https://ghchart.rshah.org/Cedric-Raichand)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cedric-Raichand&theme=github-compact)
 ---
 
 ### 📈 Contribution Graph:
