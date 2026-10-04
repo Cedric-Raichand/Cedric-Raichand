@@ -52,8 +52,8 @@ A Computer Science student passionate about **full-stack software development, m
 ---
 
 ### 🏆 GitHub Trophies:
+![Trophies](https://github-trophies.vercel.app/?username=Cedric-Raichand&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=2)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cedric-Raichand&theme=github-compact)
 ---
 
 ### 📈 Contribution Graph:
