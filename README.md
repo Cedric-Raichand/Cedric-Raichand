@@ -57,8 +57,7 @@ A Computer Science student passionate about **full-stack software development, m
 ---
 
 ### 📈 Contribution Graph:
-
-![Streak](https://streak-stats.demolab.com/?user=Cedric-Raichand)
+![Snake](https://raw.githubusercontent.com/Cedric-Raichand/Cedric-Raichand/output/github-contribution-grid-snake.svg)
 
 [![committers.top badge](https://user-badge.committers.top/ghana_private/Cedric-Raichand.svg)](https://user-badge.committers.top/ghana_private/Cedric-Raichand)
 
