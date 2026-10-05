@@ -58,7 +58,7 @@ A Computer Science student passionate about **full-stack software development, m
 
 ### 📈 Contribution Graph:
 
-![Contribution chart](https://ghchart.rshah.org/Cedric-Raichand)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cedric-Raichand&theme=react-dark&hide_border=true&area=true)
 
 [![committers.top badge](https://user-badge.committers.top/ghana_private/Cedric-Raichand.svg)](https://user-badge.committers.top/ghana_private/Cedric-Raichand)
 
