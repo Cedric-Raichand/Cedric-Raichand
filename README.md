@@ -24,11 +24,7 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
----
 
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=Cedric-Raichand&show_icons=true&theme=blue-green&hide_border=true)
----
 
 ### 📌 Most Used Languages:
 ![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Cedric-Raichand&layout=compact&theme=blue-green&hide_border=true&langs_count=8)
