@@ -1,9 +1,4 @@
 
-# Cedric Raichand
-# ⚔️🗡✨️ BEST IN THE WORLD ✨️🗡⚔️
-### 🚀 About Me
-A Computer Science student passionate about **full-stack software development, mobile app development, and cybersecurity**. Focused on mastering programming fundamentals, networking, and databases while building real-world applications, secure and reliable systems, and continuously striving to become **exceptional** at what I do.
-
 ---
 
 ### 📫 Contact Me:
@@ -57,7 +52,7 @@ A Computer Science student passionate about **full-stack software development, m
 ---
 
 ### 📈 Contribution Graph:
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cedric-Raichand&theme=react-dark&hide_border=true&area=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cedric-Raichand&theme=react-dark&hide_border=true&area=tru
 
 [![committers.top badge](https://user-badge.committers.top/ghana_private/Cedric-Raichand.svg)](https://user-badge.committers.top/ghana_private/Cedric-Raichand)
 
