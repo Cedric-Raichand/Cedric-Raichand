@@ -5,7 +5,7 @@
 
 A Computer Science student passionate about **full-stack web and mobile app development**, focused on mastering programming fundamentals, networking, and databases while building real-world applications and reliable systems. Continuously striving to become **exceptional** at what I do.
 
-🔭 **Future plans:** Learning **cloud computing** and **cybersecurity** (especially **application security**) to build secure, scalable systems.
+🔭 Future plans: Learning cloud computing and cybersecurity (especially application security) to build secure, scalable systems.
 ---
 
 ### 📫 Contact Me:
