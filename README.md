@@ -1,10 +1,4 @@
 
-# Cedric Raichand
-# ⚔️🗡✨️ BEST IN THE WORLD ✨️🗡⚔️
-### 🚀 About Me
-A Computer Science student passionate about **full-stack software development, mobile app development, and cybersecurity**. Focused on mastering programming fundamentals, networking, and databases while building real-world applications, secure and reliable systems, and continuously striving to become **exceptional** at what I do.
-🔭 Future plans: Learning cloud computing and cybersecurity (especially application security) to build secure, scalable systems.
----
 
 ### 📫 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cedrick-dzodzodzi)
