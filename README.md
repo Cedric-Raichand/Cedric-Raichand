@@ -1,4 +1,4 @@
-# Cedric Raichand
+
 # ⚔️🗡✨️ BEST IN THE WORLD ✨️🗡⚔
 ## 🚀 About Me
 
