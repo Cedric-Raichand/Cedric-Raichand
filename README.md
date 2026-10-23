@@ -1,5 +1,4 @@
 
-# ⚔️🗡✨️ BEST IN THE WORLD ✨️🗡⚔
 ## 🚀 About Me
 
 A Computer Science student passionate about **full-stack web and mobile app development**, focused on mastering programming fundamentals, networking, and databases while building real-world applications and reliable systems. Continuously striving to become **exceptional** at what I do.
